@@ -66,5 +66,3 @@ Feel free to open issues or send pull requests — include clear descriptions an
 Specify the license used for the project (e.g., MIT) or add a `LICENSE` file.
 
 ---
-
-If you want, I can extend the README with screenshots, badges, or a development roadmap. 🔧
