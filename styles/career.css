@@ -1,0 +1,14 @@
+/* Extra styling if needed */
+.card-selected {
+  background: #9333ea;
+  border-color: #c084fc;
+}
+
+.card-default {
+  background: #1e293b;
+  border-color: #334155;
+}
+
+.progress-bar {
+  background: linear-gradient(to right, #a855f7, #ec4899);
+}
