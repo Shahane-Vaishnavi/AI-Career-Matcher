@@ -55,12 +55,6 @@ npm run preview
 
 ---
 
-## 💡 Notes
-
-> The project scripts are defined in `package.json` (`dev`, `build`, `preview`). Ensure Node.js (v16+) is installed.
-
----
-
 ## 🤝 Contributing
 
 Feel free to open issues or send pull requests — include clear descriptions and, if applicable, screenshots or repro steps.
