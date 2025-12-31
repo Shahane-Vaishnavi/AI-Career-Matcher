@@ -2,6 +2,8 @@
 
 **AI-powered career matching application** built with Vite + React.
 
+  **AI Career Matcher** is designed to help students who feel confused about choosing the right career path. Whether you are in 10th or 12th standard deciding between options like Diploma, ITI, or further studies, or a UG/PG student unsure about higher education or job opportunities—this website provides personalized guidance. It simplifies decision-making by offering career suggestions based on your current education level and interests.
+
 ---
 
 ## 🚀 Quick Start
